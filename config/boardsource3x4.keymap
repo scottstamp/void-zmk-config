@@ -32,8 +32,8 @@
             bindings = <
     &login  &kp ESC     &none       &none
     &none   &none       &none       &none
-    &none   &none       &none       &none
     &none   &bt BT_CLR  &sys_reset  &bootloader
+    &none   &none       &none       &none
             >;
 
         };
